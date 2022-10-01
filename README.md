@@ -2,8 +2,8 @@
 <h3 align="center">A React Native lover and a laravel worker</h3>
 
 
-<img src="https://user-images.githubusercontent.com/41751130/173853880-96a54b97-e0ff-443d-bf10-90c0db796915.png" width='700' height='1000'>
-
+<!-- <img src="https://user-images.githubusercontent.com/41751130/173853880-96a54b97-e0ff-443d-bf10-90c0db796915.png" width='700' height='1000'>
+ -->
 
 - 🔭 I’m currently working on [Aude Educação](https://github.com/audeedu)
 
