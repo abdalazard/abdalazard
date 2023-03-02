@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Aude Educação](https://github.com/audeedu)
 
-- 🌱 I’m currently learning **Unity Engine, React-native, Javascript Laravel and PHP**
+- 🌱 I’m currently learning **Unity Engine, React-native, Javascript, Laravel and PHP**
 
 - 👯 I’m looking to collaborate on [PHP pt-br](https://github.com/ABDALAZARD/doc-pt_br)
 
