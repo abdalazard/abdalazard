@@ -5,17 +5,19 @@
 <!-- <img src="https://user-images.githubusercontent.com/41751130/173853880-96a54b97-e0ff-443d-bf10-90c0db796915.png" width='700' height='1000'>
  -->
 
-- 🔭 I’m currently looking for a job
+- 🔭 I’m currently working for [LibreCode](http://librecode.coop)
 
 - 🌱 I’m currently learning **PHP, Laravel and React.js**
 
 - 👯 I’m looking to collaborate on [PHP pt-br](https://github.com/ABDALAZARD/doc-pt_br)
 
-- 💬 Ask me about **React, HTML, CSS, PHP and Laravel**
+- 💬 Ask me about **React, HTML, CSS, , MySQL, PHP and Laravel**
 
 - 📫 How to reach me **abdalazard@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/viniciusabdala10/](https://www.linkedin.com/in/viniciusabdala10/)
+
+- [My website](https://abdalazard.online)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
