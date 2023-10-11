@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abdalazard@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/viniciusabdala10/](https://www.linkedin.com/in/viniciusabdala10/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/viniciusabdala10/)
 
 - [My website](https://abdalazard.online)
 
