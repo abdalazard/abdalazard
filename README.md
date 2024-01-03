@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [PHP pt-br](https://github.com/ABDALAZARD/doc-pt_br)
 
-- 💬 Ask me about **React, HTML, CSS, , MySQL, PHP and Laravel**
+- 💬 Ask me about **React, HTML, CSS, React , MySQL, PHP and Laravel**
 
 - 📫 How to reach me **abdalazard@gmail.com**
 
