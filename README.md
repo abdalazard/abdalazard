@@ -49,12 +49,9 @@
    <img src="https://github.com/ABDALAZARD/abdalazard/assets/41751130/b5ebc012-fa4a-4c05-81da-142b29a07777" alt="react" width="70" height='60' />
  </a>
  
- <a href="#" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="80" height='60' />
- </a>
-
- 
+<a>  
+ <img src="https://github.com/abdalazard/abdalazard/assets/41751130/05e4b155-cbbc-42c0-9bd5-f06915438de9" alt="jquery" width="80" heigth="60" />
+</a>
 </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalazard&show_icons=true&locale=en&layout=compact" alt="abdalazard" /></p>
 
