@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
 <h3 align="center">React enthusiast and a PHP/Laravel developer</h3>
 
+ <!-- <img src="https://user-images.githubusercontent.com/41751130/173853880-96a54b97-e0ff-443d-bf10-90c0db796915.png" width='700' height='1000'> -->
 
-<!-- <img src="https://user-images.githubusercontent.com/41751130/173853880-96a54b97-e0ff-443d-bf10-90c0db796915.png" width='700' height='1000'>
- -->
-
-- 🔭 I’m currently working for [021Dental](https://021dental.com.br/)
+- 🔭 I’m currently working for [RioSaúde](https://riosaude.rio.br/sirg/html/index.php)
 
 - 🌱 I’m currently learning **PHP, Laravel, JQuery and React.js**
 
 - 👯 I’m looking to collaborate on [PHP pt-br](https://github.com/ABDALAZARD/doc-pt_br)
 
-- 💬 Ask me about **React, HTML, CSS, React , MySQL, PHP and Laravel**
+- 💬 Ask me about **React, HTML, CSS, React, MySQL, PHP and Laravel**
 
 - 📫 How to reach me **abdalazard@gmail.com**
 
