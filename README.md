@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP, Laravel, JQuery and React.js**
 
-- 👯 I’m looking to collaborate on [PHP pt-br](https://github.com/ABDALAZARD/doc-pt_br)
+- 👯 I’m looking to collaborate on [PHP pt-br](https://github.com/ABDALAZARD/doc-pt_br) and I'm the maintainer of [Portfolio Creator](https://github.com/ABDALAZARD/Portfolio-Creator)
 
 - 💬 Ask me about **React, HTML, CSS, React, MySQL, PHP and Laravel**
 
