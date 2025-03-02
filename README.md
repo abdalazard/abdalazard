@@ -5,7 +5,7 @@
    - 🔭 I'm currently working for <a href="https://riosaude.rio.br/sirg/html/index.php">RioSaúde</a>
 </p>
 <p align="left">
-   - 🚀 Expertise in <strong>Next.js, Nest.js, Prisma ORM</strong> and modern full-stack development
+   - 🚀 Expertise in <strong>Laravel, PHP, React, React Native, Next.js, Nest.js, Prisma ORM</strong> and modern full-stack development
 </p>
 <p align="left">
    - 🤖 Working on AI integration projects and exploring machine learning applications
