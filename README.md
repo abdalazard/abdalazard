@@ -11,7 +11,7 @@
    - 🤖 Working on AI integration projects and exploring machine learning applications
 </p>
 <p align="left">
-   - 👯 I'm maintaining <a href="https://github.com/ABDALAZARD/Portfolio-Creator">Portfolio Creator</a> and contributing to <a href="https://github.com/ABDALAZARD/doc-pt_br">PHP pt-br</a>
+   - 👯 I'm maintaining <a href="https://github.com/abdalazard/explainer-web">Explainer</a>, <a href="https://github.com/ABDALAZARD/5Palavras">5Palavras</a>, <a href="https://github.com/ABDALAZARD/Portfolio-Creator">Portfolio Creator</a> and contributing to <a href="https://github.com/ABDALAZARD/doc-pt_br">PHP pt-br</a>
 </p>
 <p align="left">
    - 💬 Ask me about <strong>Next.js, Nest.js, React, React-Native, Expo, jQuery, Laravel, Prisma, AI Integration, PHP, MySQL</strong>
