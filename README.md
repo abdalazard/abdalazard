@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer since 2016 | AI Enthusiast | Open Source Contributor</h3>
 
 <p align="left">
-   - 🔭 I'm currently working for <a href="https://riosaude.rio.br/sirg/html/index.php">RioSaúde</a> as mobile developer
+   - 🔭 I'm currently working for <a href="https://riosaude.rio.br/sirg/html/index.php">RioSaúde</a> as Mobile Developer
 </p>
 <p align="left">
    - 🚀 Expertise in <strong>Laravel, PHP, React, React Native, Next.js, Nest.js, Prisma ORM</strong> and modern full-stack development
