@@ -13,7 +13,7 @@
 
 ### 🚀 Sobre Mim
 - 📱 **Foco Atual:** Desenvolvedor Mobile & Integrações com IA.
-- 🛠 **Expertise:** Domínio em ecossistema PHP (**Laravel, Blade, Filament, NativePHP**) e Modern JS (**React, Next.js, Nest.js, React Native/Expo**).
+- 🛠 **Expertise:** Domínio em ecossistema PHP (**Laravel, Blade, Filament, NativePHP**) e Modern JS (**React, Next.js, Nest.js, React Native/Expo, Electron.Js, JQuery, Vue.Js**).
 - 🧪 **Projetos Ativos:** 
   - [O-PDF](https://o-pdf.pro) - Ferramenta completa para edição de PDFs.
   - [Labcraft Pro](https://labcraft.pro) & [Spootnik](https://spootnik.labcraft.pro).
