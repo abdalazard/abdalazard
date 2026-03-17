@@ -2,28 +2,25 @@
 <h3 align="center">Full Stack Developer since 2016 | AI Enthusiast | Open Source Contributor</h3>
 
 <p align="left">
-   - 🔭 I'm currently working for <a href="https://riosaude.rio.br/sirg/html/index.php">RioSaúde</a> as Mobile Developer
+   - 🔭 I'm currently working  as Mobile Developer
 </p>
 <p align="left">
-   - 🚀 Expertise in <strong>Laravel, PHP, React, React Native, Next.js, Nest.js, Prisma ORM</strong> and modern full-stack development
+   - 🚀 Expertise in <strong>Laravel, PHP, React, React Native, Next.js, Nest.js, Expo, Electron.Js, JQuery, Blade, NativePHP and FilamentPHP</strong> and modern full-stack development
 </p>
 <p align="left">
    - 🤖 Working on AI integration projects and exploring machine learning applications
 </p>
 <p align="left">
-   - 👯 I'm maintaining <a href="https://github.com/abdalazard/explainer-web">Explainer</a>, <a href="https://github.com/ABDALAZARD/5Palavras">5Palavras</a>, <a href="https://github.com/ABDALAZARD/Portfolio-Creator">Portfolio Creator</a> and contributing to <a href="https://github.com/ABDALAZARD/doc-pt_br">PHP pt-br</a>
+   - 👯 I'm maintaining <a href="https://labcraft.pro">Labcraft Pro</a>, <a href="https://spootnik.labcraft.pro">Spootnik</a>, <a href="https://o-pdf.pro">O-PDF</a>, <a href="https://github.com/ABDALAZARD/Portfolio-Creator">Portfolio Creator</a>, Rotina do Bebê (Mobile App in tests) and contributing to <a href="https://github.com/ABDALAZARD/doc-pt_br">PHP pt-br</a>
 </p>
 <p align="left">
-   - 💬 Ask me about <strong>Next.js, Nest.js, React, React-Native, Expo, jQuery, Laravel, Prisma, AI Integration, PHP, MySQL</strong>
-</p>
-<p align="left">
-   - 📫 How to reach me <strong>abdalazard@gmail.com</strong>
+   - 📫 How to reach me <strong>abdalazard@gmail.com</strong> and <a href="https://labcraft.pro">LabCraft Pro Landing Page</a>
 </p>
 <p align="left">
    - 📄 Check my professional journey on <a href="https://www.linkedin.com/in/viniciusabdala10/">LinkedIn</a>
 </p>
 <p align="left">
-   - 🌐 Visit <a href="https://abdalazard.online">My website</a>
+   - 🌐 Visit <a href="https://labcraft.pro">My website</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
