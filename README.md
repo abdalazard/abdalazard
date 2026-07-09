@@ -13,7 +13,8 @@
 
 ### 🚀 Sobre Mim
 - 📱 **Foco Atual:** Desenvolvedor Mobile & Integrações com IA.
-- 🛠 **Expertise:** Domínio em ecossistema PHP (**Laravel, Blade, Filament, NativePHP**) e Modern JS (**React, Next.js, Nest.js, React Native/Expo, Electron.Js, JQuery, Vue.Js**).
+- 🖥️ **Backend & Ecossistema:** PHP (**Laravel, Filament, NativePHP**), **Nest.js**, **Rust** e **Python/Django**.
+- 📱 **Frontend & Mobile:** Modern JS (**React, Next.js, React Native/Expo, Vue.js**).
 - 🧪 **Projetos Ativos:** 
   - [O-PDF](https://o-pdf.pro) - Ferramenta completa para edição de PDFs.
   - [Labcraft Pro](https://labcraft.pro) & [Spootnik](https://spootnik.labcraft.pro).
@@ -26,11 +27,14 @@
   <img src="https://img.shields.io/badge/react-%2320232d.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/expo-%23000020.svg?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
 ### 📊 Estatísticas
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalazard&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=abdalazard&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
