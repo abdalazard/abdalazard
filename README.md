@@ -17,7 +17,7 @@
 - 📱 **Frontend & Mobile:** Modern JS (**React, Next.js, React Native/Expo, Vue.js**).
 - 🧪 **Projetos Ativos:** 
   - [O-PDF](https://o-pdf.pro) - Ferramenta completa para edição de PDFs.
-  - [Labcraft Pro](https://labcraft.pro) & [Spootnik](https://spootnik.labcraft.pro).
+  - [Labcraft Pro](https://labcraft.pro) & [Pingo](https://pingo.labcraft.pro).
   - Contribuidor na documentação oficial do **PHP (pt-br)**.
 
 ### 🛠️ Tecnologias & Ferramentas
