@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Vinícius Abdala</h1>
-  <p><strong>Full Stack Developer | AI Enthusiast | Open Source Contributor</strong></p>
+  <p><strong>Full Stack Developer | Gane Dev | AI Enthusiast | Open Source Contributor</strong></p>
 
   <p>
     <a href="https://www.linkedin.com/in/viniciusabdala10/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
