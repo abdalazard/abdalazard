@@ -17,8 +17,10 @@
 - 📱 **Frontend & Mobile:** Modern JS (**React, Next.js, React Native/Expo, Vue.js**).
 - 🧪 **Projetos Ativos:** 
   - [O-PDF](https://o-pdf.pro) - Ferramenta completa para edição de PDFs.
+  - [Rotina do Bebê](https://rotinadobebe.labcraft.pro/) - App mobile de acompanhamento para pais de primeira viagem.
+  - [Eletriguia](https://eletriguia.labcraft.pro/) - App mobile com manual & sistema de orçamentos e contratos.
   - [LinkUp! Vendas](https://upvendas.labcraft.pro) - Link de afiliados para provedores de internet.
-  - [Labcraft Pro](https://labcraft.pro) & [Pingo](https://pingo.labcraft.pro).
+  - [Pingo](https://pingo.labcraft.pro) - App Desktop de auxilio ao concurseiro e estudante EAD, com respostas de questões integrando com IA própria.
   - Contribuidor na documentação oficial do **PHP (pt-br)**.
 
 ### 🛠️ Tecnologias & Ferramentas
